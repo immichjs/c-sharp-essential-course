@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\bin\Debug\net6.0\operadores-de-atribuicao.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\bin\Debug\net6.0\operadores-de-atribuicao.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\bin\Debug\net6.0\operadores-de-atribuicao.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\bin\Debug\net6.0\operadores-de-atribuicao.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\bin\Debug\net6.0\operadores-de-atribuicao.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\refint\operadores-de-atribuicao.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\operadores-de-atribuicao.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-atribuicao\obj\Debug\net6.0\ref\operadores-de-atribuicao.dll

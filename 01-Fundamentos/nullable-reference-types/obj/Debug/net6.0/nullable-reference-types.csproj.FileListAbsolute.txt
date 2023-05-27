@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\bin\Debug\net6.0\nullable-reference-types.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\bin\Debug\net6.0\nullable-reference-types.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\bin\Debug\net6.0\nullable-reference-types.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\bin\Debug\net6.0\nullable-reference-types.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\bin\Debug\net6.0\nullable-reference-types.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\refint\nullable-reference-types.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\nullable-reference-types.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\nullable-reference-types\obj\Debug\net6.0\ref\nullable-reference-types.dll

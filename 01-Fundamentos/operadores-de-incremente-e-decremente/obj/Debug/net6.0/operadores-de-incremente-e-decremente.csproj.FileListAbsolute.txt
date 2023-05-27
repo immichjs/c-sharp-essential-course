@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\bin\Debug\net6.0\operadores-de-incremente-e-decremente.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\bin\Debug\net6.0\operadores-de-incremente-e-decremente.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\bin\Debug\net6.0\operadores-de-incremente-e-decremente.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\bin\Debug\net6.0\operadores-de-incremente-e-decremente.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\bin\Debug\net6.0\operadores-de-incremente-e-decremente.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\refint\operadores-de-incremente-e-decremente.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\operadores-de-incremente-e-decremente.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-de-incremente-e-decremente\obj\Debug\net6.0\ref\operadores-de-incremente-e-decremente.dll

@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\bin\Debug\net6.0\constantes.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\bin\Debug\net6.0\constantes.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\bin\Debug\net6.0\constantes.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\bin\Debug\net6.0\constantes.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\bin\Debug\net6.0\constantes.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\refint\constantes.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\constantes.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\constantes\obj\Debug\net6.0\ref\constantes.dll

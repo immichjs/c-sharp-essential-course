@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\bin\Debug\net6.0\tipos-de-dados-05.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\bin\Debug\net6.0\tipos-de-dados-05.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\bin\Debug\net6.0\tipos-de-dados-05.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\bin\Debug\net6.0\tipos-de-dados-05.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\bin\Debug\net6.0\tipos-de-dados-05.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\refint\tipos-de-dados-05.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\tipos-de-dados-05.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\tipos-de-dados05\obj\Debug\net6.0\ref\tipos-de-dados-05.dll

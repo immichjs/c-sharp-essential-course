@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\bin\Debug\net6.0\operador-ternario.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\bin\Debug\net6.0\operador-ternario.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\bin\Debug\net6.0\operador-ternario.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\bin\Debug\net6.0\operador-ternario.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\bin\Debug\net6.0\operador-ternario.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\refint\operador-ternario.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\operador-ternario.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operador-ternario\obj\Debug\net6.0\ref\operador-ternario.dll

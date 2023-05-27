@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\bin\Debug\net6.0\inferencia-de-tipos.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\bin\Debug\net6.0\inferencia-de-tipos.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\bin\Debug\net6.0\inferencia-de-tipos.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\bin\Debug\net6.0\inferencia-de-tipos.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\bin\Debug\net6.0\inferencia-de-tipos.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\refint\inferencia-de-tipos.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\inferencia-de-tipos.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\inferencia-de-tipos\obj\Debug\net6.0\ref\inferencia-de-tipos.dll

@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\bin\Debug\net6.0\precedencia-de-operadores.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\bin\Debug\net6.0\precedencia-de-operadores.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\bin\Debug\net6.0\precedencia-de-operadores.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\bin\Debug\net6.0\precedencia-de-operadores.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\bin\Debug\net6.0\precedencia-de-operadores.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\refint\precedencia-de-operadores.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\precedencia-de-operadores.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\precedencia-de-operadores\obj\Debug\net6.0\ref\precedencia-de-operadores.dll

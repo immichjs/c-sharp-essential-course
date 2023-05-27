@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\bin\Debug\net6.0\operadores-aritmeticos.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\refint\operadores-aritmeticos.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\operadores-aritmeticos.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-aritmeticos\obj\Debug\net6.0\ref\operadores-aritmeticos.dll

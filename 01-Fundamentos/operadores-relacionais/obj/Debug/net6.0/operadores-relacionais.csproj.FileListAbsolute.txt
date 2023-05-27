@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\bin\Debug\net6.0\operadores-relacionais.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\bin\Debug\net6.0\operadores-relacionais.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\bin\Debug\net6.0\operadores-relacionais.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\bin\Debug\net6.0\operadores-relacionais.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\bin\Debug\net6.0\operadores-relacionais.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\refint\operadores-relacionais.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\operadores-relacionais.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\01-Fundamentos\operadores-relacionais\obj\Debug\net6.0\ref\operadores-relacionais.dll
