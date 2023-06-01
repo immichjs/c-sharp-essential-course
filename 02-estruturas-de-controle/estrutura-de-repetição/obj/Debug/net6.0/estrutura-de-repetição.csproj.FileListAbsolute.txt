@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\bin\Debug\net6.0\estrutura-de-repetição.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\bin\Debug\net6.0\estrutura-de-repetição.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\bin\Debug\net6.0\estrutura-de-repetição.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\bin\Debug\net6.0\estrutura-de-repetição.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\bin\Debug\net6.0\estrutura-de-repetição.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\refint\estrutura-de-repetição.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\estrutura-de-repetição.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\estrutura-de-repetição\obj\Debug\net6.0\ref\estrutura-de-repetição.dll

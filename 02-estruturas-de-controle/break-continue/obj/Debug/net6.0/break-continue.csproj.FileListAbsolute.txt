@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\bin\Debug\net6.0\break-continue.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\bin\Debug\net6.0\break-continue.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\bin\Debug\net6.0\break-continue.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\bin\Debug\net6.0\break-continue.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\bin\Debug\net6.0\break-continue.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\refint\break-continue.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\break-continue.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\break-continue\obj\Debug\net6.0\ref\break-continue.dll

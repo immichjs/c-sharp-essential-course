@@ -1,0 +1,15 @@
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\bin\Debug\net6.0\for-02.exe
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\bin\Debug\net6.0\for-02.deps.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\bin\Debug\net6.0\for-02.runtimeconfig.json
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\bin\Debug\net6.0\for-02.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\bin\Debug\net6.0\for-02.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.csproj.AssemblyReference.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.AssemblyInfoInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.AssemblyInfo.cs
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.csproj.CoreCompileInputs.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\refint\for-02.dll
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.pdb
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\for-02.genruntimeconfig.cache
+C:\Users\Target N017\Desktop\2023-2.0\c#-course\02-estruturas-de-controle\for-02\obj\Debug\net6.0\ref\for-02.dll
